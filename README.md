@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sabor a olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-olvido/) |
+| **Get License** | [Request Licensing for Sabor a olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `5b116040a96c3e2790fbfb4ea643bbe0473a47186f4de40fa8b581d1bfc60e2e` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `ffbb62f1693aaa54c05020c0d90a9665f44d8886ebc8efebcb803e4fd4d6306e` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

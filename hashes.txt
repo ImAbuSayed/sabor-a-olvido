@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Sabor a 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:39:37.146500 | `v1` | `5b116040a96c3e2790fbfb4ea643bbe0473a47186f4de40fa8b581d1bfc60e2e` | `e14737fc25b51a54032cfb46b4cb0f26907b8f150810f302097e73af3612ebc4` | `2026-06-20_sabor-a-olvido-v1.txt` |
+| 2026-06-20T01:03:55.906605 | `v2` | `ffbb62f1693aaa54c05020c0d90a9665f44d8886ebc8efebcb803e4fd4d6306e` | `b20fe6d8e9785adcf31723a0a7b0ef76f392b5193e97de57863d724c0537a2ff` | `2026-06-20_sabor-a-olvido-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
