@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Sabor a olvido |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-olvido/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Commercial Licensing for Sabor a olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-olvido/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Me dejas en los labios tu sabor a olvido
-> Cuando bailamos lento, perdiendo el sentido
-> Solo cierra los ojos, yo tomo el control
-> Esta noche encendemos el fuego, mi sol
+> Sabor a olvido en tu piel esta noche
+> Sabor a olvido, no me dejes sin tu broche
+> Sabor a olvido, bailando bajo el coche
+> Sabor a olvido, tu veneno me conoce
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
